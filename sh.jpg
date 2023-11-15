@@ -1,0 +1,2179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Volume Zero</title>
+<meta name="description" content="Volume Zero">
+<title>Volume Zero</title>
+<meta name="keywords" content="Volume Zero">
+<meta name="author" content="wokiee">
+<link rel="shortcut icon" href="favicon.png">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+<link rel="stylesheet" href="https://www.volumezero.in/frontend/css/style.css?ver=3.0">
+<link rel="stylesheet" href="https://www.volumezero.in/frontend/assets/js/fotorama/4.6.4/fotorama.css">
+<style type="text/css">
+    .alert-cart {
+    top: 72px;
+    border: 1px solid #111;
+    border-radius: 4px;
+    font-size: medium;
+    background-color: rgba(17,17,17,.9);
+    right: 6%;
+    width: 300px;
+    padding: 10px 0;
+    font-family: 'Open Sans';
+    font-style: normal;
+    z-index: 9999;
+    color: #fff;
+    position: fixed;
+    text-align: center;
+    font-size: 14px;
+}
+
+.alert-remove {
+    color: #fff;
+    background-color: #212121;
+    border-color: #212121;
+    position: absolute;
+    top: 42%;
+    z-index: 99;
+    width: 50%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    font-size: 12px;
+    line-height: 40px;
+}
+  </style>
+<style>
+.tt_product_showmore ul li {
+    display: inline;
+    list-style: none;
+	font-weight: 600;
+}
+.tt_product_showmore ul li a{
+		color: #000;
+    padding: 0;
+    margin: 0 6px;
+    font-weight: 400;
+    text-decoration: none;
+	}
+	.tt_product_showmore ul li span {
+    color: #000;
+    padding: 0;
+    margin: 0 6px;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+#size_l:checked ~ label[for="size_l"],#size_m:checked ~ label[for="size_m"],#size_s:checked ~ label[for="size_s"],#size_xl:checked ~ label[for="size_xl"],#size_xxl:checked ~ label[for="size_xxl"]{
+    background: #d51b22;
+    color: #fff;
+}
+.v_Z_check ul.vz_color_main .vz_color input[type=checkbox]{
+    background: none;
+    width: unset;
+    height: unset;
+    border-radius: unset;
+}
+.v_Z_check ul.vz_color_main .vz_color label{
+    position: absolute;
+    top: 0;
+    margin-left: unset;
+    /*border:solid #f3f3f3;*/
+    -webkit-box-shadow: inset 0 0 3px rgba(0,0,0,0.1);
+    -moz-box-shadow: inset 0 0 3px rgba(0,0,0,0.1);
+    box-shadow: inset 0 0 3px rgba(0,0,0,0.1);
+}
+.v_Z_check ul.vz_color_main li{
+    list-style:none;
+}
+ul.vz_color_main li{
+    margin: 15px 27px 15px 0px;
+}
+.tt-collapse .tt-collapse-title{
+    text-transform: uppercase;
+}
+</style>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-180785578-1" type="8f1ef6b883b9b5cb69f869b3-text/javascript"></script>
+<script type="8f1ef6b883b9b5cb69f869b3-text/javascript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-180785578-1');
+</script>
+
+<script type="8f1ef6b883b9b5cb69f869b3-text/javascript">
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '786418401924164');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=786418401924164&ev=PageView&noscript=1"
+/></noscript>
+
+
+<script type="8f1ef6b883b9b5cb69f869b3-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W97PHSB');</script>
+
+</head>
+<body>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W97PHSB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<style>
+header .tt-desctop-parent-wishlist a {
+    position: relative;
+    z-index: 1;
+    cursor: pointer;
+    padding: 5px 8px;
+    font-size: 20px;
+    line-height: 1;
+    color: #191919;
+    background: 0 0;
+    border: none;
+    display: inline-block;
+    transition: color .2s linear;
+	color: #d51b22;
+}
+header .tt-desctop-parent-wishlist .tt-badge-wishlist {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    background: #061951;
+    color: #fff;
+    border-radius: 50%;
+    position: absolute;
+    top: -3px;
+    right: -10px;
+    font-size: 12px;
+    line-height: 1.7;
+    pointer-events: none;
+	text-align: center;
+}
+.wa-chat {
+        position:fixed;
+        bottom:115px;
+        right:5px;
+        z-index:999;
+    }
+    .wa-chat:hover {
+        transform: scale(1.1);
+        transition: 0.5s ease;
+    }	
+</style>
+<div id="loader-wrapper">
+<div id="loader">
+<div class="dot"></div>
+<div class="dot"></div>
+<div class="dot"></div>
+<div class="dot"></div>
+<div class="dot"></div>
+<div class="dot"></div>
+<div class="dot"></div>
+</div>
+</div>
+<header id="tt-header">
+
+<nav class="panel-menu mobile-main-menu">
+<ul>
+<li class="dropdown  selected"> <a href="https://www.volumezero.in">HOME</a></li>
+<li class="dropdown"><a href="/about-us">About</a></li>
+<li>
+<a href="/collections/all-products?q=all">Our Products</a>
+<ul>
+<li>
+<a href="javascript:;">Tops</a>
+<ul>
+<li><a href="/collections/all-products?q=all&category=shirts">Shirts</a>
+</li>
+<li><a href="/collections/all-products?q=all&category=t-shirt">T Shirt</a>
+</li>
+<li><a href="/collections/all-products?q=all&category=semi-formals">Semi Formals</a>
+</li>
+<li><a href="/collections/all-products?q=all&category=kurta">Kurta</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="javascript:;">Bottoms</a>
+<ul>
+<li><a href="/collections/all-products?q=all&category=jeans">Jeans</a>
+</li>
+<li><a href="/collections/all-products?q=all&category=trousers">Trousers</a>
+</li>
+<li><a href="/collections/all-products?q=all&category=track-pant">Track Pant</a>
+</li>
+<li><a href="/collections/all-products?q=all&category=joggers">Joggers</a>
+</li>
+<li><a href="/collections/all-products?q=all&category=shorts">Shorts</a>
+</li>
+<li><a href="/collections/all-products?q=all&category=yoga-wear">Yoga Wear</a>
+</li>
+<li><a href="/collections/all-products?q=all&category=boxer-shorts">Boxer shorts</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="javascript:;">Accessories</a>
+<ul>
+<li><a href="/collections/all-products?q=all&category=mask">Mask</a>
+</li>
+<li><a href="/collections/all-products?q=all&category=duffle-bag">Duffle Bag</a>
+</li>
+<li><a href="/collections/all-products?q=all&category=trolly-bag">Trolly Bag</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="javascript:;">Kids</a>
+<ul>
+<li><a href="/collections/all-products?q=all&category=boys-top">Boys Top</a>
+</li>
+<li><a href="/collections/all-products?q=all&category=boys-bottom">Boys Bottom</a>
+</li>
+<li><a href="/collections/all-products?q=all&category=boys-t-shirt">Boys T-shirt</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="javascript:;">Linen</a>
+<ul>
+<li><a href="/collections/all-products?q=all&category=linen-shirts">Linen Shirt&#039;s</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="dropdown"><a href="/stores">Store Zones</a></li>
+
+<li class="dropdown"> <a href="/contact-us">Contact us</a>
+</li>
+<li class="dropdown"><a href="/new-collections">New Collection</a></li>
+</ul>
+<div class="mm-navbtn-names">
+<div class="mm-closebtn">Close</div>
+<div class="mm-backbtn">Back</div>
+</div>
+</nav>
+
+<div class="tt-mobile-header">
+<div class="container-fluid">
+<div class="tt-header-row">
+<div class="tt-mobile-parent-menu">
+<div class="tt-menu-toggle" id="js-menu-toggle"><i class="icon-03"></i>
+</div>
+</div>
+
+<div class="tt-mobile-parent-search tt-parent-box"></div>
+
+
+<div class="tt-mobile-parent-cart tt-parent-box"></div>
+
+
+<div class="tt-mobile-parent-account tt-parent-box"></div>
+
+
+<div class="tt-mobile-parent-multi tt-parent-box"></div>
+
+</div>
+</div>
+<div class="container-fluid tt-top-line">
+<div class="row">
+<div class="tt-logo-container">
+
+<a class="tt-logo tt-logo-alignment" href="https://www.volumezero.in">
+<img src="https://www.volumezero.in/frontend/images/logo.png" alt>
+</a>
+
+</div>
+</div>
+</div>
+</div>
+
+<div class="tt-desktop-header">
+<div class="container">
+<div class="tt-header-holder">
+<div class="tt-col-obj tt-obj-logo">
+
+<a class="tt-logo tt-logo-alignment" href="https://www.volumezero.in">
+<img src="https://www.volumezero.in/frontend/images/logo.png" alt>
+</a>
+
+</div>
+<div class="tt-col-obj tt-obj-menu">
+
+<div class="tt-desctop-parent-menu tt-parent-box">
+<div class="tt-desctop-menu tt-hover-03" id="js-include-desktop-menu"></div>
+</div>
+
+</div>
+<div class="tt-col-obj tt-obj-options obj-move-right">
+
+<div class="tt-desctop-parent-wishlist tt-parent-box mr-2">
+<div class="tt-wishlist tt-dropdown-obj" data-tooltip="wishlist" data-tposition="bottom">
+<a href="/wishlist">
+<i class="icon-h-13"></i>
+<span class="tt-badge-wishlist" id="header_wishlist">0</span>
+</a>
+</div>
+</div>
+<div class="tt-desctop-parent-search tt-parent-box">
+<div class="tt-search tt-dropdown-obj">
+<button class="tt-dropdown-toggle" data-tooltip="Search" data-tposition="bottom"><i class="icon-f-85"></i>
+</button>
+<div class="tt-dropdown-menu">
+<div class="container">
+<form id="searchForm" method="GET" action="javascript:;">
+<div class="tt-col">
+<input type="text" class="tt-search-input" id="search" name="search" placeholder="Search Products...">
+<button id="searchBtn" class="tt-btn-search" type="submit"></button>
+</div>
+<div class="tt-col">
+<button class="tt-btn-close icon-g-80"></button>
+</div>
+<div class="tt-info-text">What are you Looking for?</div>
+<div class="search-results"></div>
+</form>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="tt-desctop-parent-cart tt-parent-box">
+<div class="tt-cart tt-dropdown-obj " data-tooltip="Cart" data-tposition="bottom" id="cart_popup">
+<button class="tt-dropdown-toggle"><i class="icon-f-39"></i> <span class="tt-badge-cart">0</span>
+</button>
+<div class="tt-dropdown-menu">
+<div class="tt-mobile-add">
+<h6 class="tt-title">SHOPPING CART</h6>
+<button class="tt-close">Close</button>
+</div>
+<div class="tt-dropdown-inner">
+<div class="tt-cart-layout">
+
+
+<div class="tt-cart-content">
+<div class="tt-cart-list">
+</div>
+<a href="javascript:;" class="tt-cart-empty">
+<i class="icon-f-39"></i>
+<p>No Products in the Cart</p>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="tt-desctop-parent-account tt-parent-box">
+<div class="tt-account tt-dropdown-obj">
+<button class="tt-dropdown-toggle" data-tooltip="My Account" data-tposition="bottom"><i class="icon-f-94"></i>
+</button>
+<div class="tt-dropdown-menu">
+<div class="tt-mobile-add">
+<button class="tt-close">Close</button>
+</div>
+<div class="tt-dropdown-inner">
+<ul>
+
+<li><a href="https://www.volumezero.in/login"><i class="icon-f-76"></i>Sign In</a>
+</li>
+<li><a href="/signup"><i class="icon-f-94"></i>Register</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+<div class="tt-stuck-nav" id="js-tt-stuck-nav">
+<div class="container">
+<div class="tt-header-row">
+<div class="tt-stuck-parent-menu"></div>
+<div class="tt-desctop-parent-wishlist tt-parent-box mr-2">
+<div class="tt-wishlist tt-dropdown-obj" data-tooltip="wishlist" data-tposition="bottom">
+<a href="/wishlist">
+<i class="icon-h-13"></i>
+<span class="tt-badge-wishlist" id="header1_wishlist">0</span>
+</a>
+</div>
+</div>
+<div class="tt-stuck-parent-search tt-parent-box"></div>
+<div class="tt-stuck-parent-cart tt-parent-box"></div>
+<div class="tt-stuck-parent-account tt-parent-box"></div>
+<div class="tt-stuck-parent-multi tt-parent-box"></div>
+</div>
+</div>
+</div>
+</header>
+<div class="tt-breadcrumb">
+<div class="container">
+<ul>
+<li><a href="/">Home</a></li>
+<li>All Products</li>
+</ul>
+</div>
+</div>
+<div id="tt-pageContent">
+<div id="tt-pageContent">
+<div class="container-indent">
+<div class="container">
+<div class="row">
+<div class="col-md-4 col-lg-3 col-xl-3 leftColumn aside" id="js-leftColumn-aside">
+<div class="tt-btn-col-close"><a href="#">Close</a></div>
+<div class="tt-collapse open tt-filter-detach-option">
+<div class="tt-collapse-content">
+<div class="filters-mobile">
+<div class="filters-row-select"></div>
+</div>
+</div>
+</div>
+<div class="tt-collapse open" id="tt_clear_filter">
+<h3 class="tt-collapse-title">SORT BY</h3>
+<div class="tt-collapse-content">
+<ul class="tt-filter-list">
+
+</ul>
+<a href="/collections/all-products?q=all" class="btn-link-02">Clear All</a>
+</div>
+</div>
+<div class="tt-collapse open">
+<h3 class="tt-collapse-title">PRODUCT CATEGORIES</h3>
+<div class="tt-collapse-content v_Z_check">
+<ul class="tt-list-row">
+<li>
+<input type="checkbox" name="selectedsubcategory" id="subcat_checkbox_shirts" class="subcategory_selector" data-group="shirts" data-index="Shirts" value="shirts">
+<label class="custom-control-label" for="subcat_checkbox_shirts">Shirts</label>
+</li>
+<li>
+<input type="checkbox" name="selectedsubcategory" id="subcat_checkbox_t-shirt" class="subcategory_selector" data-group="t-shirt" data-index="T Shirt" value="t-shirt">
+<label class="custom-control-label" for="subcat_checkbox_t-shirt">T Shirt</label>
+</li>
+<li>
+<input type="checkbox" name="selectedsubcategory" id="subcat_checkbox_jeans" class="subcategory_selector" data-group="jeans" data-index="Jeans" value="jeans">
+<label class="custom-control-label" for="subcat_checkbox_jeans">Jeans</label>
+</li>
+<li>
+<input type="checkbox" name="selectedsubcategory" id="subcat_checkbox_trousers" class="subcategory_selector" data-group="trousers" data-index="Trousers" value="trousers">
+<label class="custom-control-label" for="subcat_checkbox_trousers">Trousers</label>
+</li>
+<li>
+<input type="checkbox" name="selectedsubcategory" id="subcat_checkbox_track-pant" class="subcategory_selector" data-group="track-pant" data-index="Track Pant" value="track-pant">
+<label class="custom-control-label" for="subcat_checkbox_track-pant">Track Pant</label>
+</li>
+<li>
+<input type="checkbox" name="selectedsubcategory" id="subcat_checkbox_joggers" class="subcategory_selector" data-group="joggers" data-index="Joggers" value="joggers">
+<label class="custom-control-label" for="subcat_checkbox_joggers">Joggers</label>
+</li>
+<li>
+<input type="checkbox" name="selectedsubcategory" id="subcat_checkbox_shorts" class="subcategory_selector" data-group="shorts" data-index="Shorts" value="shorts">
+<label class="custom-control-label" for="subcat_checkbox_shorts">Shorts</label>
+</li>
+<li>
+<input type="checkbox" name="selectedsubcategory" id="subcat_checkbox_yoga-wear" class="subcategory_selector" data-group="yoga-wear" data-index="Yoga Wear" value="yoga-wear">
+<label class="custom-control-label" for="subcat_checkbox_yoga-wear">Yoga Wear</label>
+</li>
+<li>
+<input type="checkbox" name="selectedsubcategory" id="subcat_checkbox_mask" class="subcategory_selector" data-group="mask" data-index="Mask" value="mask">
+<label class="custom-control-label" for="subcat_checkbox_mask">Mask</label>
+</li>
+<li>
+<input type="checkbox" name="selectedsubcategory" id="subcat_checkbox_duffle-bag" class="subcategory_selector" data-group="duffle-bag" data-index="Duffle Bag" value="duffle-bag">
+<label class="custom-control-label" for="subcat_checkbox_duffle-bag">Duffle Bag</label>
+</li>
+<li>
+<input type="checkbox" name="selectedsubcategory" id="subcat_checkbox_trolly-bag" class="subcategory_selector" data-group="trolly-bag" data-index="Trolly Bag" value="trolly-bag">
+<label class="custom-control-label" for="subcat_checkbox_trolly-bag">Trolly Bag</label>
+</li>
+<li>
+<input type="checkbox" name="selectedsubcategory" id="subcat_checkbox_semi-formals" class="subcategory_selector" data-group="semi-formals" data-index="Semi Formals" value="semi-formals">
+<label class="custom-control-label" for="subcat_checkbox_semi-formals">Semi Formals</label>
+</li>
+<li>
+<input type="checkbox" name="selectedsubcategory" id="subcat_checkbox_kurta" class="subcategory_selector" data-group="kurta" data-index="Kurta" value="kurta">
+<label class="custom-control-label" for="subcat_checkbox_kurta">Kurta</label>
+</li>
+<li>
+<input type="checkbox" name="selectedsubcategory" id="subcat_checkbox_boys-top" class="subcategory_selector" data-group="boys-top" data-index="Boys Top" value="boys-top">
+<label class="custom-control-label" for="subcat_checkbox_boys-top">Boys Top</label>
+</li>
+<li>
+<input type="checkbox" name="selectedsubcategory" id="subcat_checkbox_boys-bottom" class="subcategory_selector" data-group="boys-bottom" data-index="Boys Bottom" value="boys-bottom">
+<label class="custom-control-label" for="subcat_checkbox_boys-bottom">Boys Bottom</label>
+</li>
+<li>
+<input type="checkbox" name="selectedsubcategory" id="subcat_checkbox_linen-shirts" class="subcategory_selector" data-group="linen-shirts" data-index="Linen Shirt&#039;s" value="linen-shirts">
+<label class="custom-control-label" for="subcat_checkbox_linen-shirts">Linen Shirt&#039;s</label>
+</li>
+<li>
+<input type="checkbox" name="selectedsubcategory" id="subcat_checkbox_boxer-shorts" class="subcategory_selector" data-group="boxer-shorts" data-index="Boxer shorts" value="boxer-shorts">
+<label class="custom-control-label" for="subcat_checkbox_boxer-shorts">Boxer shorts</label>
+</li>
+<li>
+<input type="checkbox" name="selectedsubcategory" id="subcat_checkbox_boys-t-shirt" class="subcategory_selector" data-group="boys-t-shirt" data-index="Boys T-shirt" value="boys-t-shirt">
+<label class="custom-control-label" for="subcat_checkbox_boys-t-shirt">Boys T-shirt</label>
+</li>
+</ul>
+</div>
+</div>
+<div class="tt-collapse open">
+<h3 class="tt-collapse-title">FILTER BY Size</h3>
+<div class="tt-collapse-content v_Z_check">
+<div class="select-size">
+<input type="checkbox" id="size_" class="common_selector" data-group="size" name="selectedfilterssize" value data-index="10">
+<label class="custom-control-label" for="size_">10</label>
+<input type="checkbox" id="size_" class="common_selector" data-group="size" name="selectedfilterssize" value data-index="12">
+<label class="custom-control-label" for="size_">12</label>
+<input type="checkbox" id="size_" class="common_selector" data-group="size" name="selectedfilterssize" value data-index="14">
+<label class="custom-control-label" for="size_">14</label>
+<input type="checkbox" id="size_" class="common_selector" data-group="size" name="selectedfilterssize" value data-index="16">
+<label class="custom-control-label" for="size_">16</label>
+<input type="checkbox" id="size_30" class="common_selector" data-group="size" name="selectedfilterssize" value="30" data-index="30">
+<label class="custom-control-label" for="size_30">30</label>
+<input type="checkbox" id="size_32" class="common_selector" data-group="size" name="selectedfilterssize" value="32" data-index="32">
+<label class="custom-control-label" for="size_32">32</label>
+<input type="checkbox" id="size_34" class="common_selector" data-group="size" name="selectedfilterssize" value="34" data-index="34">
+<label class="custom-control-label" for="size_34">34</label>
+<input type="checkbox" id="size_36" class="common_selector" data-group="size" name="selectedfilterssize" value="36" data-index="36">
+<label class="custom-control-label" for="size_36">36</label>
+<input type="checkbox" id="size_38" class="common_selector" data-group="size" name="selectedfilterssize" value="38" data-index="38">
+<label class="custom-control-label" for="size_38">38</label>
+<input type="checkbox" id="size_40" class="common_selector" data-group="size" name="selectedfilterssize" value="40" data-index="40">
+<label class="custom-control-label" for="size_40">40</label>
+<input type="checkbox" id="size_" class="common_selector" data-group="size" name="selectedfilterssize" value data-index="8">
+<label class="custom-control-label" for="size_">8</label>
+<input type="checkbox" id="size_l" class="common_selector" data-group="size" name="selectedfilterssize" value="l" data-index="L">
+<label class="custom-control-label" for="size_l">L</label>
+<input type="checkbox" id="size_m" class="common_selector" data-group="size" name="selectedfilterssize" value="m" data-index="M">
+<label class="custom-control-label" for="size_m">M</label>
+<input type="checkbox" id="size_s" class="common_selector" data-group="size" name="selectedfilterssize" value="s" data-index="S">
+<label class="custom-control-label" for="size_s">S</label>
+<input type="checkbox" id="size_xl" class="common_selector" data-group="size" name="selectedfilterssize" value="xl" data-index="XL">
+<label class="custom-control-label" for="size_xl">XL</label>
+<input type="checkbox" id="size_xxl" class="common_selector" data-group="size" name="selectedfilterssize" value="xxl" data-index="XXL">
+<label class="custom-control-label" for="size_xxl">XXL</label>
+</div>
+</div>
+</div>
+<div class="tt-collapse open">
+<h3 class="tt-collapse-title">FILTER BY Color</h3>
+<div class="tt-collapse-content v_Z_check">
+<ul class="vz_color_main">
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_navy" class="common_selector" data-group="color" name="selectedfilterscolor" value="navy" data-index="navy">
+<label class="custom-control-label" for="color_navy" style="background-color:#000080"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_dark-blue" class="common_selector" data-group="color" name="selectedfilterscolor" value="dark-blue" data-index="dark-blue">
+<label class="custom-control-label" for="color_dark-blue" style="background-color:#00008b"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_black" class="common_selector" data-group="color" name="selectedfilterscolor" value="black" data-index="black">
+<label class="custom-control-label" for="color_black" style="background-color:#020202"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_dark-green" class="common_selector" data-group="color" name="selectedfilterscolor" value="dark-green" data-index="dark-green">
+<label class="custom-control-label" for="color_dark-green" style="background-color:#056608"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_green" class="common_selector" data-group="color" name="selectedfilterscolor" value="green" data-index="green">
+<label class="custom-control-label" for="color_green" style="background-color:#18e118"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_royal-blue" class="common_selector" data-group="color" name="selectedfilterscolor" value="royal-blue" data-index="royal-blue">
+<label class="custom-control-label" for="color_royal-blue" style="background-color:#4169e1"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_blue1" class="common_selector" data-group="color" name="selectedfilterscolor" value="blue1" data-index="blue1">
+<label class="custom-control-label" for="color_blue1" style="background-color:#4682B4"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_brown" class="common_selector" data-group="color" name="selectedfilterscolor" value="brown" data-index="brown">
+<label class="custom-control-label" for="color_brown" style="background-color:#635147"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_coffee" class="common_selector" data-group="color" name="selectedfilterscolor" value="coffee" data-index="coffee">
+<label class="custom-control-label" for="color_coffee" style="background-color:#6f4e37"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_violet" class="common_selector" data-group="color" name="selectedfilterscolor" value="violet" data-index="violet">
+<label class="custom-control-label" for="color_violet" style="background-color:#7f00ff"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_meroon" class="common_selector" data-group="color" name="selectedfilterscolor" value="meroon" data-index="meroon">
+<label class="custom-control-label" for="color_meroon" style="background-color:#800000"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_olive" class="common_selector" data-group="color" name="selectedfilterscolor" value="olive" data-index="olive">
+<label class="custom-control-label" for="color_olive" style="background-color:#808000"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_grey" class="common_selector" data-group="color" name="selectedfilterscolor" value="grey" data-index="grey">
+<label class="custom-control-label" for="color_grey" style="background-color:#808080"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_light-gray-melange" class="common_selector" data-group="color" name="selectedfilterscolor" value="light-gray-melange" data-index="light-gray-melange">
+<label class="custom-control-label" for="color_light-gray-melange" style="background-color:#808080"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_light-maroon" class="common_selector" data-group="color" name="selectedfilterscolor" value="light-maroon" data-index="light-maroon">
+<label class="custom-control-label" for="color_light-maroon" style="background-color:#830300"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_dark-grey-melange" class="common_selector" data-group="color" name="selectedfilterscolor" value="dark-grey-melange" data-index="dark-grey-melange">
+<label class="custom-control-label" for="color_dark-grey-melange" style="background-color:#87827d"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_grey-melange" class="common_selector" data-group="color" name="selectedfilterscolor" value="grey-melange" data-index="grey-melange">
+<label class="custom-control-label" for="color_grey-melange" style="background-color:#87827d"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_skyblue" class="common_selector" data-group="color" name="selectedfilterscolor" value="skyblue" data-index="skyblue">
+<label class="custom-control-label" for="color_skyblue" style="background-color:#87ceeb"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_blue" class="common_selector" data-group="color" name="selectedfilterscolor" value="blue" data-index="blue">
+<label class="custom-control-label" for="color_blue" style="background-color:#87CEEB"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_light-green" class="common_selector" data-group="color" name="selectedfilterscolor" value="light-green" data-index="light-green">
+<label class="custom-control-label" for="color_light-green" style="background-color:#90ee90"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_PISTA" class="common_selector" data-group="color" name="selectedfilterscolor" value="PISTA" data-index="PISTA">
+<label class="custom-control-label" for="color_PISTA" style="background-color:#93c572"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_sandal" class="common_selector" data-group="color" name="selectedfilterscolor" value="sandal" data-index="sandal">
+<label class="custom-control-label" for="color_sandal" style="background-color:#a3876a"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_dark-grey" class="common_selector" data-group="color" name="selectedfilterscolor" value="dark-grey" data-index="dark-grey">
+<label class="custom-control-label" for="color_dark-grey" style="background-color:#a9a9a9"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_light-blue" class="common_selector" data-group="color" name="selectedfilterscolor" value="light-blue" data-index="light-blue">
+<label class="custom-control-label" for="color_light-blue" style="background-color:#add8e6"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_dark-ash" class="common_selector" data-group="color" name="selectedfilterscolor" value="dark-ash" data-index="dark-ash">
+<label class="custom-control-label" for="color_dark-ash" style="background-color:#b2beb5"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_ash" class="common_selector" data-group="color" name="selectedfilterscolor" value="ash" data-index="ash">
+<label class="custom-control-label" for="color_ash" style="background-color:#b2beb5"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_dark-khaki" class="common_selector" data-group="color" name="selectedfilterscolor" value="dark-khaki" data-index="dark-khaki">
+<label class="custom-control-label" for="color_dark-khaki" style="background-color:#bdb76b"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_melange" class="common_selector" data-group="color" name="selectedfilterscolor" value="melange" data-index="melange">
+<label class="custom-control-label" for="color_melange" style="background-color:#c1cf7a"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_khaki" class="common_selector" data-group="color" name="selectedfilterscolor" value="khaki" data-index="khaki">
+<label class="custom-control-label" for="color_khaki" style="background-color:#c3b091"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_light-gray" class="common_selector" data-group="color" name="selectedfilterscolor" value="light-gray" data-index="light-gray">
+<label class="custom-control-label" for="color_light-gray" style="background-color:#D3D3D3"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_red" class="common_selector" data-group="color" name="selectedfilterscolor" value="red" data-index="red">
+<label class="custom-control-label" for="color_red" style="background-color:#d43f3f"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_Gold" class="common_selector" data-group="color" name="selectedfilterscolor" value="Gold" data-index="Gold">
+<label class="custom-control-label" for="color_Gold" style="background-color:#d4af37"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_yellow" class="common_selector" data-group="color" name="selectedfilterscolor" value="yellow" data-index="yellow">
+<label class="custom-control-label" for="color_yellow" style="background-color:#d4d43e"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_dark-pink" class="common_selector" data-group="color" name="selectedfilterscolor" value="dark-pink" data-index="dark-pink">
+<label class="custom-control-label" for="color_dark-pink" style="background-color:#d66083"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_ice-blue" class="common_selector" data-group="color" name="selectedfilterscolor" value="ice-blue" data-index="ice-blue">
+<label class="custom-control-label" for="color_ice-blue" style="background-color:#dcf3ff"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_fawn" class="common_selector" data-group="color" name="selectedfilterscolor" value="fawn" data-index="fawn">
+<label class="custom-control-label" for="color_fawn" style="background-color:#e5aa70"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_orange" class="common_selector" data-group="color" name="selectedfilterscolor" value="orange" data-index="orange">
+<label class="custom-control-label" for="color_orange" style="background-color:#eb8912"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_light-khaki" class="common_selector" data-group="color" name="selectedfilterscolor" value="light-khaki" data-index="light-khaki">
+<label class="custom-control-label" for="color_light-khaki" style="background-color:#f0e68c"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_beige" class="common_selector" data-group="color" name="selectedfilterscolor" value="beige" data-index="beige">
+<label class="custom-control-label" for="color_beige" style="background-color:#F5F5DC"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_musted" class="common_selector" data-group="color" name="selectedfilterscolor" value="musted" data-index="musted">
+<label class="custom-control-label" for="color_musted" style="background-color:#FDD451"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_half-white" class="common_selector" data-group="color" name="selectedfilterscolor" value="half-white" data-index="half-white">
+<label class="custom-control-label" for="color_half-white" style="background-color:#FDFBF6"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_pink" class="common_selector" data-group="color" name="selectedfilterscolor" value="pink" data-index="pink">
+<label class="custom-control-label" for="color_pink" style="background-color:#FFC0CB"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_cream" class="common_selector" data-group="color" name="selectedfilterscolor" value="cream" data-index="cream">
+<label class="custom-control-label" for="color_cream" style="background-color:#FFFDD0"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_light-yellow" class="common_selector" data-group="color" name="selectedfilterscolor" value="light-yellow" data-index="light-yellow">
+<label class="custom-control-label" for="color_light-yellow" style="background-color:#FFFFE0"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_white" class="common_selector" data-group="color" name="selectedfilterscolor" value="white" data-index="white">
+<label class="custom-control-label" for="color_white" style="background-color:#ffffff"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_" class="common_selector" data-group="color" name="selectedfilterscolor" value data-index>
+<label class="custom-control-label" for="color_" style="background-color:blue"></label>
+</div>
+</li>
+<li>
+<div class="vz_color">
+<input type="checkbox" id="color_" class="common_selector" data-group="color" name="selectedfilterscolor" value data-index>
+<label class="custom-control-label" for="color_" style="background-color:cream"></label>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="tt-collapse open">
+<h3 class="tt-collapse-title">FILTER BY Style</h3>
+<div class="tt-collapse-content v_Z_check">
+<ul class="tt-list-row">
+<li>
+<input type="checkbox" id="style_full-sleeves" class="common_selector" data-group="style" name="selectedfiltersstyle" value="full-sleeves" data-index="Full Sleeves">
+<label class="custom-control-label" for="style_full-sleeves">Full Sleeves</label>
+</li>
+<li>
+<input type="checkbox" id="style_half- sleeves" class="common_selector" data-group="style" name="selectedfiltersstyle" value="half- sleeves" data-index="Half Sleeves">
+<label class="custom-control-label" for="style_half- sleeves">Half Sleeves</label>
+</li>
+</ul>
+</div>
+</div>
+<div class="tt-collapse open">
+<h3 class="tt-collapse-title">FILTER BY Design</h3>
+<div class="tt-collapse-content v_Z_check">
+<ul class="tt-list-row">
+<li>
+<input type="checkbox" id="design_checks" class="common_selector" data-group="design" name="selectedfiltersdesign" value="checks" data-index="Checks">
+<label class="custom-control-label" for="design_checks">Checks</label>
+</li>
+<li>
+<input type="checkbox" id="design_clubwear" class="common_selector" data-group="design" name="selectedfiltersdesign" value="clubwear" data-index="CLUBWEAR">
+<label class="custom-control-label" for="design_clubwear">CLUBWEAR</label>
+</li>
+<li>
+<input type="checkbox" id="design_dobby" class="common_selector" data-group="design" name="selectedfiltersdesign" value="dobby" data-index="DOBBY">
+<label class="custom-control-label" for="design_dobby">DOBBY</label>
+</li>
+<li>
+<input type="checkbox" id="design_lycra" class="common_selector" data-group="design" name="selectedfiltersdesign" value="lycra" data-index="LYCRA">
+<label class="custom-control-label" for="design_lycra">LYCRA</label>
+</li>
+<li>
+<input type="checkbox" id="design_mask" class="common_selector" data-group="design" name="selectedfiltersdesign" value="mask" data-index="Mask">
+<label class="custom-control-label" for="design_mask">Mask</label>
+</li>
+<li>
+<input type="checkbox" id="design_plain" class="common_selector" data-group="design" name="selectedfiltersdesign" value="plain" data-index="Plain">
+<label class="custom-control-label" for="design_plain">Plain</label>
+</li>
+<li>
+<input type="checkbox" id="design_" class="common_selector" data-group="design" name="selectedfiltersdesign" value data-index="polo">
+<label class="custom-control-label" for="design_">polo</label>
+</li>
+<li>
+<input type="checkbox" id="design_print" class="common_selector" data-group="design" name="selectedfiltersdesign" value="print" data-index="Print">
+<label class="custom-control-label" for="design_print">Print</label>
+</li>
+<li>
+<input type="checkbox" id="design_r-neck" class="common_selector" data-group="design" name="selectedfiltersdesign" value="r-neck" data-index="R-NECK">
+<label class="custom-control-label" for="design_r-neck">R-NECK</label>
+</li>
+<li>
+<input type="checkbox" id="design_stripes" class="common_selector" data-group="design" name="selectedfiltersdesign" value="stripes" data-index="STRIPES">
+<label class="custom-control-label" for="design_stripes">STRIPES</label>
+</li>
+<li>
+<input type="checkbox" id="design_v-neck" class="common_selector" data-group="design" name="selectedfiltersdesign" value="v-neck" data-index="V-NECK">
+<label class="custom-control-label" for="design_v-neck">V-NECK</label>
+</li>
+</ul>
+</div>
+</div>
+<div class="tt-collapse open">
+<h3 class="tt-collapse-title">FILTER BY Price</h3>
+<div class="tt-collapse-content v_Z_check">
+<ul class="tt-list-row">
+<li>
+<input type="checkbox" id="price_0% to 20% Discount" class="common_selector" data-group="price" name="selectedfiltersprice" value="0% to 20% Discount" data-index="0% TO 20% DISCOUNT">
+<label class="custom-control-label" for="price_0% to 20% Discount">0% TO 20% DISCOUNT</label>
+</li>
+<li>
+<input type="checkbox" id="price_0% to 50% Discount" class="common_selector" data-group="price" name="selectedfiltersprice" value="0% to 50% Discount" data-index="0% TO 50% DISCOUNT">
+<label class="custom-control-label" for="price_0% to 50% Discount">0% TO 50% DISCOUNT</label>
+</li>
+<li>
+<input type="checkbox" id="price_above-1500" class="common_selector" data-group="price" name="selectedfiltersprice" value="above-1500" data-index="Above ₹1,500">
+<label class="custom-control-label" for="price_above-1500">Above ₹1,500</label>
+</li>
+<li>
+<input type="checkbox" id="price_discount" class="common_selector" data-group="price" name="selectedfiltersprice" value="discount" data-index="DISCOUNT">
+<label class="custom-control-label" for="price_discount">DISCOUNT</label>
+</li>
+<li>
+<input type="checkbox" id="price_under-500" class="common_selector" data-group="price" name="selectedfiltersprice" value="under-500" data-index="Under ₹500">
+<label class="custom-control-label" for="price_under-500">Under ₹500</label>
+</li>
+<li>
+<input type="checkbox" id="price_1000-1500" class="common_selector" data-group="price" name="selectedfiltersprice" value="1000-1500" data-index="₹1,000 - ₹1,500">
+<label class="custom-control-label" for="price_1000-1500">₹1,000 - ₹1,500</label>
+</li>
+<li>
+<input type="checkbox" id="price_500-750" class="common_selector" data-group="price" name="selectedfiltersprice" value="500-750" data-index="₹500 - ₹750">
+<label class="custom-control-label" for="price_500-750">₹500 - ₹750</label>
+</li>
+<li>
+<input type="checkbox" id="price_750-1000" class="common_selector" data-group="price" name="selectedfiltersprice" value="750-1000" data-index="₹750 - ₹1,000">
+<label class="custom-control-label" for="price_750-1000">₹750 - ₹1,000</label>
+</li>
+</ul>
+</div>
+</div>
+<div class="tt-collapse open">
+<h3 class="tt-collapse-title">FILTER BY Fabric</h3>
+<div class="tt-collapse-content v_Z_check">
+<ul class="tt-list-row">
+<li>
+<input type="checkbox" id="fabric_ 60% cotton and 40% polyester" class="common_selector" data-group="fabric" name="selectedfiltersfabric" value=" 60% cotton and 40% polyester" data-index=" 60% Cotton and 40% Polyester">
+<label class="custom-control-label" for="fabric_ 60% cotton and 40% polyester"> 60% Cotton and 40% Polyester</label>
+</li>
+<li>
+<input type="checkbox" id="fabric_" class="common_selector" data-group="fabric" name="selectedfiltersfabric" value data-index="CHAMBARY">
+<label class="custom-control-label" for="fabric_">CHAMBARY</label>
+</li>
+<li>
+<input type="checkbox" id="fabric_cotton" class="common_selector" data-group="fabric" name="selectedfiltersfabric" value="cotton" data-index="Cotton">
+<label class="custom-control-label" for="fabric_cotton">Cotton</label>
+</li>
+<li>
+<input type="checkbox" id="fabric_denim" class="common_selector" data-group="fabric" name="selectedfiltersfabric" value="denim" data-index="Denim">
+<label class="custom-control-label" for="fabric_denim">Denim</label>
+</li>
+<li>
+<input type="checkbox" id="fabric_linen" class="common_selector" data-group="fabric" name="selectedfiltersfabric" value="linen" data-index="LINEN">
+<label class="custom-control-label" for="fabric_linen">LINEN</label>
+</li>
+<li>
+<input type="checkbox" id="fabric_woven fabric" class="common_selector" data-group="fabric" name="selectedfiltersfabric" value="woven fabric" data-index="Woven Fabric">
+<label class="custom-control-label" for="fabric_woven fabric">Woven Fabric</label>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-md-12 col-lg-9 col-xl-9">
+<div class="content-indent container-fluid-custom-mobile-padding-02">
+<div class="tt-filters-options" id="js-tt-filters-options">
+<h1 class="tt-title">All Products </h1>
+<div class="tt-btn-toggle"><a href="#">FILTER</a></div>
+<div class="tt-sort">
+<select name="orderby" id="sort_id">
+<option value>Sort by</option>
+<option value="new_desc">New Arrival</option>
+<option value="price_asc">Price -- Low to High</option>
+<option value="price_desc">Price -- High to Low</option>
+</select>
+</div>
+<div class="tt-quantity"><a href="#" class="tt-col-one" data-value="tt-col-one"></a> <a href="#" class="tt-col-two" data-value="tt-col-two"></a> <a href="#" class="tt-col-three" data-value="tt-col-three"></a> <a href="#" class="tt-col-four" data-value="tt-col-four"></a> <a href="#" class="tt-col-six" data-value="tt-col-six"></a></div>
+</div>
+<div class="tt-product-listing row">
+<div class="col-6 col-md-4 tt-col-item">
+<div class="tt-product thumbprod-center">
+<div class="tt-image-box">
+<a href="/collections/all-products/products/volume-zero-mens-casual-plain-yellow-colour-kurtha-m-vshm00008303"><span class="tt-img"><img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/img/product/klmHUP9S5DmSUcNP.JPG" alt></span><span class="tt-img-roll-over">
+<img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/img/product/GUY19NNJAHfAdcss.JPG" alt>
+</span></a>
+</div>
+<div class="tt-description">
+<div class="tt-row">
+<ul class="tt-add-info">
+<li><a href="/collections/all-products?q=all&category=shirts">Shirts</a></li>
+</ul>
+</div>
+<h2 class="tt-title"><a href="/collections/all-products/products/volume-zero-mens-casual-plain-yellow-colour-kurtha-m-vshm00008303">VOLUME ZERO MENS CASUAL PLAIN...</a></h2>
+<div class="tt-price">
+<span class="new-price">₹699</span>
+</div>
+<div class="tt-product-inside-hover">
+<div class="tt-row-btn"><a href="/collections/all-products/products/volume-zero-mens-casual-plain-yellow-colour-kurtha-m-vshm00008303" class="tt-btn-addtocart thumbprod-button-bg">Select Options</a></div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="col-6 col-md-4 tt-col-item">
+<div class="tt-product thumbprod-center">
+<div class="tt-image-box">
+<a href="/collections/all-products/products/volume-zero-mens-casual-plain-white-colour-kurtha-m-vshm00008302"><span class="tt-img"><img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/img/product/N64stopqx5wcs33V.JPG" alt></span><span class="tt-img-roll-over">
+<img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/img/product/fcovoeypigLOwa57.JPG" alt>
+</span></a>
+</div>
+<div class="tt-description">
+<div class="tt-row">
+<ul class="tt-add-info">
+<li><a href="/collections/all-products?q=all&category=shirts">Shirts</a></li>
+</ul>
+</div>
+<h2 class="tt-title"><a href="/collections/all-products/products/volume-zero-mens-casual-plain-white-colour-kurtha-m-vshm00008302">VOLUME ZERO MENS CASUAL PLAIN...</a></h2>
+<div class="tt-price">
+<span class="new-price">₹699</span>
+</div>
+<div class="tt-product-inside-hover">
+<div class="tt-row-btn"><a href="/collections/all-products/products/volume-zero-mens-casual-plain-white-colour-kurtha-m-vshm00008302" class="tt-btn-addtocart thumbprod-button-bg">Select Options</a></div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="col-6 col-md-4 tt-col-item">
+<div class="tt-product thumbprod-center">
+<div class="tt-image-box">
+<a href="/collections/all-products/products/volume-zero-mens-casual-plain-sandal-colour-kurtha-m-vshm00008301"><span class="tt-img"><img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/img/product/aH50pevPdYbIaHO1.JPG" alt></span><span class="tt-img-roll-over">
+<img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/img/product/dGrjwtpl0RDvOggj.JPG" alt>
+</span></a>
+</div>
+<div class="tt-description">
+<div class="tt-row">
+<ul class="tt-add-info">
+<li><a href="/collections/all-products?q=all&category=shirts">Shirts</a></li>
+</ul>
+</div>
+<h2 class="tt-title"><a href="/collections/all-products/products/volume-zero-mens-casual-plain-sandal-colour-kurtha-m-vshm00008301">VOLUME ZERO MENS CASUAL PLAIN...</a></h2>
+<div class="tt-price">
+<span class="new-price">₹699</span>
+</div>
+<div class="tt-product-inside-hover">
+<div class="tt-row-btn"><a href="/collections/all-products/products/volume-zero-mens-casual-plain-sandal-colour-kurtha-m-vshm00008301" class="tt-btn-addtocart thumbprod-button-bg">Select Options</a></div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="col-6 col-md-4 tt-col-item">
+<div class="tt-product thumbprod-center">
+<div class="tt-image-box">
+<a href="/collections/all-products/products/volume-zero-mens-casual-plain-pista-colour-kurtha-m-vshm00008300"><span class="tt-img"><img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/img/product/Pg6BXRdMWAr8vi8S.JPG" alt></span><span class="tt-img-roll-over">
+<img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/img/product/braTqcCnhYRD5kda.JPG" alt>
+</span></a>
+</div>
+<div class="tt-description">
+<div class="tt-row">
+<ul class="tt-add-info">
+<li><a href="/collections/all-products?q=all&category=shirts">Shirts</a></li>
+</ul>
+</div>
+<h2 class="tt-title"><a href="/collections/all-products/products/volume-zero-mens-casual-plain-pista-colour-kurtha-m-vshm00008300">VOLUME ZERO MENS CASUAL PLAIN...</a></h2>
+<div class="tt-price">
+<span class="new-price">₹699</span>
+</div>
+<div class="tt-product-inside-hover">
+<div class="tt-row-btn"><a href="/collections/all-products/products/volume-zero-mens-casual-plain-pista-colour-kurtha-m-vshm00008300" class="tt-btn-addtocart thumbprod-button-bg">Select Options</a></div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="col-6 col-md-4 tt-col-item">
+<div class="tt-product thumbprod-center">
+<div class="tt-image-box">
+<a href="/collections/all-products/products/volume-zero-mens-casual-plain-pink-colour-kurtha-m-vshm00008299"><span class="tt-img"><img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/img/product/C6UJtApGSwGuwzup.JPG" alt></span><span class="tt-img-roll-over">
+<img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/img/product/lJL2223XqYFqm0bk.JPG" alt>
+</span></a>
+</div>
+<div class="tt-description">
+<div class="tt-row">
+<ul class="tt-add-info">
+<li><a href="/collections/all-products?q=all&category=shirts">Shirts</a></li>
+</ul>
+</div>
+<h2 class="tt-title"><a href="/collections/all-products/products/volume-zero-mens-casual-plain-pink-colour-kurtha-m-vshm00008299">VOLUME ZERO MENS CASUAL PLAIN...</a></h2>
+<div class="tt-price">
+<span class="new-price">₹699</span>
+</div>
+<div class="tt-product-inside-hover">
+<div class="tt-row-btn"><a href="/collections/all-products/products/volume-zero-mens-casual-plain-pink-colour-kurtha-m-vshm00008299" class="tt-btn-addtocart thumbprod-button-bg">Select Options</a></div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="col-6 col-md-4 tt-col-item">
+<div class="tt-product thumbprod-center">
+<div class="tt-image-box">
+<a href="/collections/all-products/products/volume-zero-mens-casual-plain-navy-colour-kurtha-m-vshm00008298"><span class="tt-img"><img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/img/product/zD1rQX5toJVXUasH.JPG" alt></span><span class="tt-img-roll-over">
+<img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/img/product/5ZBMuZlx48cgHeYy.JPG" alt>
+</span></a>
+</div>
+<div class="tt-description">
+<div class="tt-row">
+<ul class="tt-add-info">
+<li><a href="/collections/all-products?q=all&category=shirts">Shirts</a></li>
+</ul>
+</div>
+<h2 class="tt-title"><a href="/collections/all-products/products/volume-zero-mens-casual-plain-navy-colour-kurtha-m-vshm00008298">VOLUME ZERO MENS CASUAL PLAIN...</a></h2>
+<div class="tt-price">
+<span class="new-price">₹699</span>
+</div>
+<div class="tt-product-inside-hover">
+<div class="tt-row-btn"><a href="/collections/all-products/products/volume-zero-mens-casual-plain-navy-colour-kurtha-m-vshm00008298" class="tt-btn-addtocart thumbprod-button-bg">Select Options</a></div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="col-6 col-md-4 tt-col-item">
+<div class="tt-product thumbprod-center">
+<div class="tt-image-box">
+<a href="/collections/all-products/products/volume-zero-mens-casual-plain-maroon-colour-kurtha-m-vshm00008297"><span class="tt-img"><img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/img/product/3HG2VJ0Ik90wK01s.JPG" alt></span><span class="tt-img-roll-over">
+<img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/img/product/DeVRGIPtGR8snhTd.JPG" alt>
+</span></a>
+</div>
+<div class="tt-description">
+<div class="tt-row">
+<ul class="tt-add-info">
+<li><a href="/collections/all-products?q=all&category=shirts">Shirts</a></li>
+</ul>
+</div>
+<h2 class="tt-title"><a href="/collections/all-products/products/volume-zero-mens-casual-plain-maroon-colour-kurtha-m-vshm00008297">VOLUME ZERO MENS CASUAL PLAIN...</a></h2>
+<div class="tt-price">
+<span class="new-price">₹699</span>
+</div>
+<div class="tt-product-inside-hover">
+<div class="tt-row-btn"><a href="/collections/all-products/products/volume-zero-mens-casual-plain-maroon-colour-kurtha-m-vshm00008297" class="tt-btn-addtocart thumbprod-button-bg">Select Options</a></div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="col-6 col-md-4 tt-col-item">
+<div class="tt-product thumbprod-center">
+<div class="tt-image-box">
+<a href="/collections/all-products/products/volume-zero-mens-casual-plain-sky-blue-colour-kurtha-m-vshm00008296"><span class="tt-img"><img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/img/product/vgw9NrNtjXkQq6Ld.JPG" alt></span><span class="tt-img-roll-over">
+<img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/img/product/74tG3CQYo2En3sps.JPG" alt>
+</span></a>
+</div>
+<div class="tt-description">
+<div class="tt-row">
+<ul class="tt-add-info">
+<li><a href="/collections/all-products?q=all&category=shirts">Shirts</a></li>
+</ul>
+</div>
+<h2 class="tt-title"><a href="/collections/all-products/products/volume-zero-mens-casual-plain-sky-blue-colour-kurtha-m-vshm00008296">VOLUME ZERO MENS CASUAL PLAIN...</a></h2>
+<div class="tt-price">
+<span class="new-price">₹699</span>
+</div>
+<div class="tt-product-inside-hover">
+<div class="tt-row-btn"><a href="/collections/all-products/products/volume-zero-mens-casual-plain-sky-blue-colour-kurtha-m-vshm00008296" class="tt-btn-addtocart thumbprod-button-bg">Select Options</a></div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="col-6 col-md-4 tt-col-item">
+<div class="tt-product thumbprod-center">
+<div class="tt-image-box">
+<a href="/collections/all-products/products/volume-zero-mens-casual-plain-d-green-colour-kurtha-m-vshm00008295"><span class="tt-img"><img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/img/product/D0Iyk6vd7R3kWQSC.JPG" alt></span><span class="tt-img-roll-over">
+<img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/img/product/U0q2aicpB6OQaLlq.JPG" alt>
+</span></a>
+</div>
+<div class="tt-description">
+<div class="tt-row">
+<ul class="tt-add-info">
+<li><a href="/collections/all-products?q=all&category=shirts">Shirts</a></li>
+</ul>
+</div>
+<h2 class="tt-title"><a href="/collections/all-products/products/volume-zero-mens-casual-plain-d-green-colour-kurtha-m-vshm00008295">VOLUME ZERO MENS CASUAL PLAIN...</a></h2>
+<div class="tt-price">
+<span class="new-price">₹699</span>
+</div>
+<div class="tt-product-inside-hover">
+<div class="tt-row-btn"><a href="/collections/all-products/products/volume-zero-mens-casual-plain-d-green-colour-kurtha-m-vshm00008295" class="tt-btn-addtocart thumbprod-button-bg">Select Options</a></div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="col-6 col-md-4 tt-col-item">
+<div class="tt-product thumbprod-center">
+<div class="tt-image-box">
+<a href="/collections/all-products/products/volume-zero-mens-casual-plain-blue-colour-kurtha-m-vshm00008294"><span class="tt-img"><img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/img/product/jhwHlN1bywgAzwuW.JPG" alt></span><span class="tt-img-roll-over">
+<img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/img/product/w8gGljBI5zDslXiQ.JPG" alt>
+</span></a>
+</div>
+<div class="tt-description">
+<div class="tt-row">
+<ul class="tt-add-info">
+<li><a href="/collections/all-products?q=all&category=shirts">Shirts</a></li>
+</ul>
+</div>
+<h2 class="tt-title"><a href="/collections/all-products/products/volume-zero-mens-casual-plain-blue-colour-kurtha-m-vshm00008294">VOLUME ZERO MENS CASUAL PLAIN...</a></h2>
+<div class="tt-price">
+<span class="new-price">₹699</span>
+</div>
+<div class="tt-product-inside-hover">
+<div class="tt-row-btn"><a href="/collections/all-products/products/volume-zero-mens-casual-plain-blue-colour-kurtha-m-vshm00008294" class="tt-btn-addtocart thumbprod-button-bg">Select Options</a></div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="col-6 col-md-4 tt-col-item">
+<div class="tt-product thumbprod-center">
+<div class="tt-image-box">
+<a href="/collections/all-products/products/volume-zero-mens-casual-plain-cement-colour-kurtha-m-vshm00008293"><span class="tt-img"><img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/img/product/aAz2nrAysQEk5PoN.JPG" alt></span><span class="tt-img-roll-over">
+<img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/img/product/ClukAQkNnvskg3Ao.JPG" alt>
+</span></a>
+</div>
+<div class="tt-description">
+<div class="tt-row">
+<ul class="tt-add-info">
+<li><a href="/collections/all-products?q=all&category=shirts">Shirts</a></li>
+</ul>
+</div>
+<h2 class="tt-title"><a href="/collections/all-products/products/volume-zero-mens-casual-plain-cement-colour-kurtha-m-vshm00008293">VOLUME ZERO MENS CASUAL PLAIN...</a></h2>
+<div class="tt-price">
+<span class="new-price">₹699</span>
+</div>
+<div class="tt-product-inside-hover">
+<div class="tt-row-btn"><a href="/collections/all-products/products/volume-zero-mens-casual-plain-cement-colour-kurtha-m-vshm00008293" class="tt-btn-addtocart thumbprod-button-bg">Select Options</a></div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="col-6 col-md-4 tt-col-item">
+<div class="tt-product thumbprod-center">
+<div class="tt-image-box">
+<a href="/collections/all-products/products/volume-zero-mens-casual-plain-black-colour-kurtha-m-vshm00008292"><span class="tt-img"><img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/img/product/yXEPzVwtgDqWtJiX.JPG" alt></span><span class="tt-img-roll-over">
+<img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/img/product/SUGEZZ4jJaFBMMX0.JPG" alt>
+</span></a>
+</div>
+<div class="tt-description">
+<div class="tt-row">
+<ul class="tt-add-info">
+<li><a href="/collections/all-products?q=all&category=shirts">Shirts</a></li>
+</ul>
+</div>
+<h2 class="tt-title"><a href="/collections/all-products/products/volume-zero-mens-casual-plain-black-colour-kurtha-m-vshm00008292">VOLUME ZERO MENS CASUAL PLAIN...</a></h2>
+<div class="tt-price">
+<span class="new-price">₹699</span>
+</div>
+<div class="tt-product-inside-hover">
+<div class="tt-row-btn"><a href="/collections/all-products/products/volume-zero-mens-casual-plain-black-colour-kurtha-m-vshm00008292" class="tt-btn-addtocart thumbprod-button-bg">Select Options</a></div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text-right tt_product_showmore">
+
+<ul class="pagination" role="navigation">
+<li class="page-item disabled" aria-disabled="true" aria-label="&laquo; Previous">
+<span class="page-link" aria-hidden="true">&lsaquo;</span>
+</li>
+<li class="page-item active" aria-current="page"><span class="page-link">1</span></li>
+<li class="page-item"><a class="page-link" href="https://www.volumezero.in/collections/all-products?q=all&amp;category=shirts&amp;page=2">2</a></li>
+<li class="page-item"><a class="page-link" href="https://www.volumezero.in/collections/all-products?q=all&amp;category=shirts&amp;page=3">3</a></li>
+<li class="page-item"><a class="page-link" href="https://www.volumezero.in/collections/all-products?q=all&amp;category=shirts&amp;page=4">4</a></li>
+<li class="page-item"><a class="page-link" href="https://www.volumezero.in/collections/all-products?q=all&amp;category=shirts&amp;page=5">5</a></li>
+<li class="page-item"><a class="page-link" href="https://www.volumezero.in/collections/all-products?q=all&amp;category=shirts&amp;page=6">6</a></li>
+<li class="page-item"><a class="page-link" href="https://www.volumezero.in/collections/all-products?q=all&amp;category=shirts&amp;page=7">7</a></li>
+<li class="page-item"><a class="page-link" href="https://www.volumezero.in/collections/all-products?q=all&amp;category=shirts&amp;page=8">8</a></li>
+<li class="page-item disabled" aria-disabled="true"><span class="page-link">...</span></li>
+<li class="page-item"><a class="page-link" href="https://www.volumezero.in/collections/all-products?q=all&amp;category=shirts&amp;page=17">17</a></li>
+<li class="page-item"><a class="page-link" href="https://www.volumezero.in/collections/all-products?q=all&amp;category=shirts&amp;page=18">18</a></li>
+<li class="page-item">
+<a class="page-link" href="https://www.volumezero.in/collections/all-products?q=all&amp;category=shirts&amp;page=2" rel="next" aria-label="Next &raquo;">&rsaquo;</a>
+</li>
+</ul>
+<div class="tt_item_all_js"><a href="#" class="btn btn-border01">NO MORE ITEM TO SHOW</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer id="tt-footer">
+<div class="tt-footer-col tt-color-scheme-01">
+<div class="container">
+<div class="row">
+<div class="col-md-6 col-lg-2 col-xl-3">
+<div class="tt-mobile-collapse">
+<h4 class="tt-collapse-title">CATEGORIES</h4>
+<div class="tt-collapse-content">
+<ul class="tt-list">
+<li><a href="/collections/all-products?q=all&category=shirts">Shirt</a></li>
+<li><a href="/collections/all-products?q=all&category=t-shirt">T-Shirt</a></li>
+<li><a href="/collections/all-products?q=all&category=jeans">Jeans</a></li>
+<li><a href="/collections/all-products?q=all&category=track-pant">Track Pant</a></li>
+<li><a href="/collections/all-products?q=all&category=trousers">Trousers</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-md-6 col-lg-2 col-xl-3">
+<div class="tt-mobile-collapse">
+<h4 class="tt-collapse-title">Help</h4>
+<div class="tt-collapse-content">
+<ul class="tt-list">
+<li><a href="/about-us">ABOUT US</a></li>
+<li><a href="/faq">FAQS</a></li>
+<li><a href="/returns">CANCELLATION & RETURNS</a></li>
+<li><a href="/privacy-policy">PRIVACY POLICY</a></li>
+<li><a href="/tac">TERMS & CONDITIONS</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-md-6 col-lg-4 col-xl-3">
+<div class="tt-mobile-collapse">
+<h4 class="tt-collapse-title">CONTACTS</h4>
+<div class="tt-collapse-content">
+<address>
+<p><span>Address:</span>
+Volume Zero Fashions
+3/B, East Colony,
+Komarapalayam - 638183,
+Namakal District, Tamilnadu.
+</p>
+<p><span>Phone:</span> 9655006666, 9585591723</p>
+<p><span>Hours:</span> 7 Days a week from 10 am to 6 pm</p>
+<p><span>E-mail:</span> <a href="/cdn-cgi/l/email-protection#325b53565f5b5c72445d5e475f574857405d1c5b5c"><span class="__cf_email__" data-cfemail="244540494d4a64524b485149415e41564b0a4d4a">[email&#160;protected]</span></a></p>
+</address>
+</div>
+</div>
+</div>
+<div class="col-md-6 col-lg-4 col-xl-3">
+<div class="tt-newsletter">
+<div class="tt-mobile-collapse">
+<h4 class="tt-collapse-title">NEWSLETTER SIGNUP</h4>
+<div class="tt-collapse-content">
+<p>Sign up for our e-mail and be the first who know our special offers! Furthermore, we will give a 15% discount on the next order after you sign up.</p>
+<form id="newsletterform" class="form-inline form-default" method="post" novalidate="novalidate" action="#">
+<div class="form-group"><input type="text" name="email" class="form-control" placeholder="Enter your e-mail"> <button type="submit" class="btn">GET!</button></div>
+</form>
+</div>
+</div>
+</div>
+<ul class="tt-social-icon">
+<li><a class="icon-g-64" target="_blank" href="https://www.facebook.com/volumezeroofficial/"></a></li>
+<li><a class="icon-h-58" target="_blank" href="https://twitter.com/volumezerfashio"></a></li>
+<li><a class="icon-g-67" target="_blank" href="https://www.instagram.com/volumezerofashions/"></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="tt-footer-custom">
+<div class="container">
+<div class="tt-row">
+<div class="tt-col-left">
+<div class="tt-col-item tt-logo-col">
+ <a class="tt-logo tt-logo-alignment" href="index.html"><img data-src="https://www.volumezero.in/frontend/images/logo.png" alt> </a>
+</div>
+<div class="tt-col-item">
+
+<div class="tt-box-copyright">&copy; 2023 Volume Zero. All Rights Reserved. Powered by <a href="https://www.eywamedia.com/" target="_blank">EYWAMEDIA</a></div>
+
+</div>
+</div>
+<div class="tt-col-right">
+<div class="tt-col-item">
+
+<ul class="tt-payment-list">
+<li><a href="javascript:;"><span class="icon-Stripe"><span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span><span class="path8"></span><span class="path9"></span><span class="path10"></span><span class="path11"></span><span class="path12"></span></span></a></li>
+<li><a href="javascript:;"><span class="icon-paypal-2"><span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span></span></a></li>
+<li><a href="javascript:;"><span class="icon-visa"><span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span></span></a></li>
+<li><a href="javascript:;"><span class="icon-mastercard"><span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span><span class="path8"></span><span class="path9"></span><span class="path10"></span><span class="path11"></span><span class="path12"></span><span class="path13"></span></span></a></li>
+<li><a href="javascript:;"><span class="icon-discover"><span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span><span class="path8"></span><span class="path9"></span><span class="path10"></span><span class="path11"></span><span class="path12"></span><span class="path13"></span><span class="path14"></span><span class="path15"></span><span class="path16"></span></span></a></li>
+<li><a href="javascript:;"><span class="icon-american-express"><span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span><span class="path8"></span><span class="path9"></span><span class="path10"></span><span class="path11"></span></span></a></li>
+</ul>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="wa-chat">
+<a href="https://wa.me/918189800431?text=Hi" target="_blank">
+<svg width="60px" height="60px" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M16 31C23.732 31 30 24.732 30 17C30 9.26801 23.732 3 16 3C8.26801 3 2 9.26801 2 17C2 19.5109 2.661 21.8674 3.81847 23.905L2 31L9.31486 29.3038C11.3014 30.3854 13.5789 31 16 31ZM16 28.8462C22.5425 28.8462 27.8462 23.5425 27.8462 17C27.8462 10.4576 22.5425 5.15385 16 5.15385C9.45755 5.15385 4.15385 10.4576 4.15385 17C4.15385 19.5261 4.9445 21.8675 6.29184 23.7902L5.23077 27.7692L9.27993 26.7569C11.1894 28.0746 13.5046 28.8462 16 28.8462Z" fill="#BFC8D0" />
+<path d="M28 16C28 22.6274 22.6274 28 16 28C13.4722 28 11.1269 27.2184 9.19266 25.8837L5.09091 26.9091L6.16576 22.8784C4.80092 20.9307 4 18.5589 4 16C4 9.37258 9.37258 4 16 4C22.6274 4 28 9.37258 28 16Z" fill="url(#paint0_linear_87_7264)" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M16 30C23.732 30 30 23.732 30 16C30 8.26801 23.732 2 16 2C8.26801 2 2 8.26801 2 16C2 18.5109 2.661 20.8674 3.81847 22.905L2 30L9.31486 28.3038C11.3014 29.3854 13.5789 30 16 30ZM16 27.8462C22.5425 27.8462 27.8462 22.5425 27.8462 16C27.8462 9.45755 22.5425 4.15385 16 4.15385C9.45755 4.15385 4.15385 9.45755 4.15385 16C4.15385 18.5261 4.9445 20.8675 6.29184 22.7902L5.23077 26.7692L9.27993 25.7569C11.1894 27.0746 13.5046 27.8462 16 27.8462Z" fill="white" />
+<path d="M12.5 9.49989C12.1672 8.83131 11.6565 8.8905 11.1407 8.8905C10.2188 8.8905 8.78125 9.99478 8.78125 12.05C8.78125 13.7343 9.52345 15.578 12.0244 18.3361C14.438 20.9979 17.6094 22.3748 20.2422 22.3279C22.875 22.2811 23.4167 20.0154 23.4167 19.2503C23.4167 18.9112 23.2062 18.742 23.0613 18.696C22.1641 18.2654 20.5093 17.4631 20.1328 17.3124C19.7563 17.1617 19.5597 17.3656 19.4375 17.4765C19.0961 17.8018 18.4193 18.7608 18.1875 18.9765C17.9558 19.1922 17.6103 19.083 17.4665 19.0015C16.9374 18.7892 15.5029 18.1511 14.3595 17.0426C12.9453 15.6718 12.8623 15.2001 12.5959 14.7803C12.3828 14.4444 12.5392 14.2384 12.6172 14.1483C12.9219 13.7968 13.3426 13.254 13.5313 12.9843C13.7199 12.7145 13.5702 12.305 13.4803 12.05C13.0938 10.953 12.7663 10.0347 12.5 9.49989Z" fill="white" />
+<defs>
+<linearGradient id="paint0_linear_87_7264" x1="26.5" y1="7" x2="4" y2="28" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5BD066" />
+<stop offset="1" stop-color="#27B43E" />
+</linearGradient>
+</defs>
+</svg>
+</a>
+</div>
+</footer>
+
+
+<div class="modal fade" id="modalAddToCartProduct" tabindex="-1" role="dialog" aria-label="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-hidden="true"><span class="icon icon-clear"></span></button></div>
+<div class="modal-body">
+<div class="tt-modal-addtocart mobile">
+<div class="tt-modal-messages"><i class="icon-f-68"></i> Added to cart successfully!</div>
+<a href="#" class="btn-link btn-close-popup">CONTINUE SHOPPING</a> <a href="/cart" class="btn-link">VIEW CART</a> <a href="/checkout" class="btn-link">PROCEED TO CHECKOUT</a>
+</div>
+<div class="tt-modal-addtocart desctope">
+<div class="row">
+<div class="col-12 col-lg-6">
+<div class="tt-modal-messages"><i class="icon-f-68"></i> Added to cart successfully!</div>
+<div class="tt-modal-product">
+<div class="tt-img"><img id="productImage" src="#" alt></div>
+<h2 class="tt-title" id="productTitle"><a href="#"></a></h2>
+<div class="tt-qty">QTY: <span>1</span></div>
+</div>
+<div class="tt-product-total">
+<div class="tt-total">TOTAL: <span class="tt-price" id="productPrice"></span></div>
+</div>
+</div>
+<div class="col-12 col-lg-6">
+
+<a href="javascript:;" class="btn btn-border btn-close-popup" data-dismiss="modal">CONTINUE SHOPPING</a>
+<a href="/cart" class="btn btn-border">VIEW CART</a>
+<a href="/checkout" class="btn">PROCEED TO CHECKOUT</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="ModalquickView" tabindex="-1" role="dialog" aria-label="myModalLabel" aria-hidden="true">
+<div class="modal-dialog modal-lg">
+<div class="modal-content">
+<div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-hidden="true"><span class="icon icon-clear"></span></button></div>
+<div class="modal-body">
+<div class="tt-modal-quickview desctope">
+<div class="row">
+<div class="col-12 col-md-5 col-lg-6">
+<div class="tt-mobile-product-slider arrow-location-center">
+<div><img data-lazy="https://www.volumezero.in/frontend/images/product/product-01.jpg" alt></div>
+<div><img data-lazy="https://www.volumezero.in/frontend/images/product/product-01-02.jpg" alt></div>
+<div><img data-lazy="https://www.volumezero.in/frontend/images/product/product-01-03.jpg" alt></div>
+<div><img data-lazy="https://www.volumezero.in/frontend/images/product/product-01-04.jpg" alt></div>
+
+</div>
+</div>
+<div class="col-12 col-md-7 col-lg-6">
+<div class="tt-product-single-info">
+<div class="tt-add-info">
+<ul>
+<li><span>SKU:</span> 001</li>
+<li><span>Availability:</span> 40 in Stock</li>
+</ul>
+</div>
+<h2 class="tt-title">Cotton Blend Fleece Hoodie</h2>
+<div class="tt-price"><span class="new-price">$29</span> <span class="old-price"></span></div>
+<div class="tt-wrapper">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</div>
+<div class="tt-swatches-container">
+<div class="tt-wrapper">
+<div class="tt-title-options">SIZE</div>
+<form class="form-default">
+<div class="form-group">
+<select class="form-control">
+<option>21</option>
+<option>25</option>
+<option>36</option>
+</select>
+</div>
+</form>
+</div>
+<div class="tt-wrapper">
+<div class="tt-title-options">COLOR</div>
+<form class="form-default">
+<div class="form-group">
+<select class="form-control">
+<option>Red</option>
+<option>Green</option>
+<option>Brown</option>
+</select>
+</div>
+</form>
+</div>
+<div class="tt-wrapper">
+<div class="tt-title-options">TEXTURE:</div>
+<ul class="tt-options-swatch options-large">
+<li><a class="options-color" href="#"><span class="swatch-img"><img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/frontend/images/custom/texture-img-01.jpg" alt> </span><span class="swatch-label color-black"></span></a></li>
+<li class="active"><a class="options-color" href="#"><span class="swatch-img"><img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/frontend/images/custom/texture-img-02.jpg" alt> </span><span class="swatch-label color-black"></span></a></li>
+<li><a class="options-color" href="#"><span class="swatch-img"><img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/frontend/images/custom/texture-img-03.jpg" alt> </span><span class="swatch-label color-black"></span></a></li>
+<li><a class="options-color" href="#"><span class="swatch-img"><img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/frontend/images/custom/texture-img-04.jpg" alt> </span><span class="swatch-label color-black"></span></a></li>
+<li><a class="options-color" href="#"><span class="swatch-img"><img src="https://www.volumezero.in/frontend/images/loader.svg" data-src="https://www.volumezero.in/frontend/images/custom/texture-img-05.jpg" alt> </span><span class="swatch-label color-black"></span></a></li>
+</ul>
+</div>
+</div>
+<div class="tt-wrapper">
+<div class="tt-row-custom-01">
+<div class="col-item">
+<div class="tt-input-counter style-01"><span class="minus-btn"></span> <input type="text" value="1" size="5"> <span class="plus-btn"></span></div>
+</div>
+<div class="col-item"><a href="#" class="btn btn-lg"><i class="icon-f-39"></i>ADD TO CART</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="modalVideoProduct" tabindex="-1" role="dialog" aria-label="myModalLabel" aria-hidden="true">
+<div class="modal-dialog modal-video">
+<div class="modal-content">
+<div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-hidden="true"><span class="icon icon-clear"></span></button></div>
+<div class="modal-body">
+<div class="modal-video-content"></div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="ModalSubsribeGood" tabindex="-1" role="dialog" aria-label="myModalLabel" aria-hidden="true">
+<div class="modal-dialog modal-xs">
+<div class="modal-content">
+<div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-hidden="true"><span class="icon icon-clear"></span></button></div>
+<div class="modal-body">
+<div class="tt-modal-subsribe-good"><i class="icon-f-68"></i> You have successfully signed!</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="modalRemoveFromCartProduct" tabindex="-1" role="dialog" aria-label="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-hidden="true"><span class="icon icon-clear"></span></button></div>
+<div class="modal-body">
+<p class="mb-4">Are you sure?</p>
+<form id="removeform" method="post">
+<input type="hidden" name="productid" id="productid" value>
+<input type="hidden" name="countid" id="countid" value>
+<input type="hidden" name="title" id="productitle" value>
+<input type="hidden" name="clearall" id="clearall" value>
+<button type="button" class="btn btn-default btn-sm" data-dismiss="modal">Cancel</button>
+<button type="button" id="submit" class="btn btn-primary btn-sm">Remove</button>
+</form>
+</div>
+</div>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://www.volumezero.in/frontend/js/jquery.min.js" type="8f1ef6b883b9b5cb69f869b3-text/javascript"></script>
+<script type="8f1ef6b883b9b5cb69f869b3-text/javascript">window.jQuery || document.write('<script src="https://www.volumezero.in/frontend/external/jquery/jquery.min.js"><\/script>')</script>
+<script defer="defer" src="https://www.volumezero.in/frontend/js/bundle.js" type="8f1ef6b883b9b5cb69f869b3-text/javascript"></script>
+<script type="8f1ef6b883b9b5cb69f869b3-text/javascript">
+    function addtocart(productid,splprice,price,model,title,image,fprice){
+
+        //alert(productid);
+        
+        var _token = '805FQML55f8vjklLaasmy76EgkaxERHTGP0xmPP0';
+        var data = {'productid':productid,'splprice':splprice,'price':price,'model':model,'_token':_token};
+        $.ajax({
+            type: 'post',
+            url: '/add_cart',
+            data: data,
+            success: function(data){
+
+                //alert(data);
+                //console.log(data);
+                $('.alert').remove();
+                if(data=="success"){
+
+                    cart_dropdown_ajaxfn(title,image,fprice);
+            
+            
+                }else if(data=="failure"){
+                        $('body').before('<div class="alert alert-success alert-cart"><i class="fa fa-check-circle"></i> Not Deliverable </div>');
+                        setTimeout(function () { 
+                  $(".alert-success").fadeOut(); 
+                }, 4000);
+                }else{
+                    
+                   $('body').before('<div class="alert alert-success alert-cart"><i class="fa fa-check-circle"></i> Available only '+data+' Products. </div>'); 
+
+                   setTimeout(function () { 
+                  $(".alert-success").fadeOut(); 
+                }, 4000);
+                } 
+
+                //$('html, body').animate({ scrollTop: 0 }, 'slow');
+                
+                
+                 
+            }
+        });
+    }
+
+    function addtowishlist(productid){
+
+        //alert(productid);
+        
+        var _token = '805FQML55f8vjklLaasmy76EgkaxERHTGP0xmPP0';
+        var data = {'productid':productid,'_token':_token};
+        $.ajax({
+            type: 'post',
+            url: '/add_wishlist',
+            data: data,
+            success: function(data){
+
+                var fstring = data.split("+");
+                //alert(fstring[0]);
+
+                $("#header_wishlist").html(fstring[1]);
+                $("#header1_wishlist").html(fstring[1]);
+                if(fstring[0]=="add"){
+
+                    $("#pro_wlist").html("<i class='icon-n-072'></i>ADD TO WISHLIST");
+
+                }else{
+
+                    $("#pro_wlist").html("<i class='icon-n-072'></i>IN WISHLIST")
+
+                }
+                
+                
+                 
+            }
+        });
+    }
+
+    function movetocart(productid,splprice,price,model,title,image,fprice){
+
+        //alert(productid);
+        
+        var _token = '805FQML55f8vjklLaasmy76EgkaxERHTGP0xmPP0';
+        var data = {'productid':productid,'_token':_token};
+        $.ajax({
+            type: 'post',
+            url: '/move_to_cart',
+            data: data,
+            success: function(data){
+
+                $("#wishlist_products").html(data);
+                addtocart(productid,splprice,price,model,title,image,fprice);
+                
+
+                
+                 
+            }
+        });
+    }
+
+    function cart_dropdown_ajaxfn(title,image,fprice){
+
+        //alert(productid);
+        
+        var _token = '805FQML55f8vjklLaasmy76EgkaxERHTGP0xmPP0';
+        var data = {'_token':_token};
+        $.ajax({
+            type: 'post',
+            url: '/cart_popup_ajax',
+            data: data,
+            success: function(data){
+
+                $("#cart_popup").html(data);
+
+                //$('body').before('<div class="alert alert-success alert-cart"><i class="fa fa-check-circle"></i> Product is added to the cart successfully </div>');
+
+                $('#productTitle').text(title);
+                        $('#productImage').attr('src','/img/product/'+image);
+                        $('#productPrice').text('₹'+fprice);
+                        $('#modalAddToCartProduct').modal({
+                            backdrop: 'static',
+                            keyboard: false
+                        });
+            
+              
+
+                //$('html, body').animate({ scrollTop: 0 }, 'slow');
+               
+                
+                 
+            }
+        });
+    }
+
+    
+
+    //Search form submit
+    $(document).ready(function(){
+  	$("form#searchForm").submit(function(){
+		var serInput = $("#search").val();
+		window.location.href = "/collections/all-products?q=all&search="+serInput;
+  	});
+    });
+
+    
+</script>
+<script type="8f1ef6b883b9b5cb69f869b3-text/javascript">
+    function passingvalues(val1,val2,val3){
+//alert(id1);
+        document.getElementById("clearall").value='';
+      document.getElementById("productid").value=val1;
+      document.getElementById("countid").value=val2;
+      document.getElementById("productitle").value=val3;
+
+    }
+
+    $('#submit').click(function() {
+       var _token = '805FQML55f8vjklLaasmy76EgkaxERHTGP0xmPP0';
+       var productid = document.getElementById("productid").value;
+       var id = document.getElementById("countid").value;
+       var title = document.getElementById("productitle").value;
+       var call = document.getElementById("clearall").value;
+      // alert(title);
+        var data = {'productid':productid,'clearall':call,'_token':_token};
+        $.ajax({
+            type: 'post',
+            url: '/remove_cart',
+            data: data,
+            success: function(data){
+
+              //alert(data);
+               // console.log(data);
+                if(data){
+                $('#modalRemoveFromCartProduct').modal('hide');
+                
+                $('#shopping-cartdetails').html(data);
+                
+                $('html, body').animate({ scrollTop: 0 }, 'slow');
+                setTimeout(function () { 
+                  $(".alert-success").fadeOut(); 
+                }, 5000);
+                //$(".header").load(location.href + " .header");
+                cart_dropdown_update_ajaxfn();
+                 }else{
+                 $('#outofstock_'+id).text('Oops some error....Please wait');
+                }
+            }
+        });
+    } );
+
+    
+    function cart_dropdown_update_ajaxfn(){
+
+        //alert(productid);
+        
+        var _token = '805FQML55f8vjklLaasmy76EgkaxERHTGP0xmPP0';
+        var data = {'_token':_token};
+        $.ajax({
+            type: 'post',
+            url: '/cart_popup_ajax',
+            data: data,
+            success: function(data){
+
+                $("#cart_popup").html(data);
+
+                $('body').before('<div class="alert alert-success alert-cart"><i class="fa fa-check-circle"></i> Cart updated successfully </div>');
+            
+              
+
+                //$('html, body').animate({ scrollTop: 0 }, 'slow');
+                setTimeout(function () { 
+                  $(".alert-success").fadeOut(); 
+                }, 4000);
+                
+                 
+            }
+        });
+    }
+
+    
+
+</script>
+
+<script type="8f1ef6b883b9b5cb69f869b3-text/javascript">
+(function(d, s, id){
+var js, ajs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) {return;}
+js = d.createElement(s); js.id = id; js.aun_id = "ZwxyXdCVqkZPC7U";
+js.src = "//adtarbo.eywamedia.com/scripts/adtarbo.min.js"; js.async=true;
+ajs.parentNode.insertBefore(js, ajs);
+}(document, 'script', 'adtarbo-js'));
+</script>
+
+<script src="https://www.volumezero.in/frontend/separate-include/listing/listing.js" type="8f1ef6b883b9b5cb69f869b3-text/javascript"></script>
+<script type="8f1ef6b883b9b5cb69f869b3-text/javascript">
+
+
+
+     $(document).ready(function(){
+
+$("#tt_clear_filter").hide();
+
+
+       function getUrlVars()
+       {
+         var vars = [], hash;
+         var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+         for(var i = 0; i < hashes.length; i++)
+         {
+          hash = hashes[i].split('=');
+          vars.push(hash[0]);
+          vars[hash[0]] = hash[1];
+       }
+       return vars;
+    }
+
+    var url_vars = getUrlVars();
+    console.log(url_vars);
+
+
+     //alert(url_vars);
+
+     $.each( url_vars, function( i, l ){
+
+      if( l != "q"){
+
+         var j = getUrlVars()[l];
+         if(j){
+            $("#tt_clear_filter").show();
+            if(l=="category"){
+
+               var nameArr = j.split(',');
+               $.each( nameArr, function( i, l ){
+                  var name = $("#subcat_checkbox_"+l).attr('data-index');
+
+                  var r = '<li><a class="del" data-index="category" data-group="'+l+'" href="#">'+name+'</a></li>';
+                  $(".tt-filter-list").append(r);
+                  $('#subcat_checkbox_'+l ).prop('checked', true);
+               });
+
+            }else{
+
+               var nameArr = j.split(',');
+	       $.each( nameArr, function( k, m ){
+		       if( l != "search" ){
+               		var m = decodeURI(m);
+                  if(l=="page"){
+
+                    var name = 'Page-'+m;
+
+                  }else if(l=="order"){
+
+                    if(m=="price_asc"){
+                      m = "Price -- Low to High";
+                    }else if(m=="price_desc"){
+                      m = "Price -- High to Low";
+                    }else{
+                      m = "New Arrival";
+                    }
+
+                    var name = m;
+
+                  }else{
+
+                    var name = $('#'+l+'_'+m).attr('data-index');
+
+                  }
+               		
+               		var r = '<li><a class="del" data-index="'+l+'" data-group="'+j+'" data-id = "'+m+'" href="#">'+name+'</a></li>';
+                    	$(".tt-filter-list").append(r);
+	       		$('#'+l+'_'+m).prop('checked', true);
+		       }else{
+		       	$("#tt_clear_filter").hide();
+		       }
+                });
+
+
+            }
+
+
+         }else{
+            $("#tt_clear_filter").hide();
+         }
+
+
+      }
+
+   });
+
+     $(".del").on("click",function(e) {
+   //alert('test');
+    e.preventDefault();
+    var type = $(this).attr('data-index');
+    var list = $(this).data('group');
+    if ($.isNumeric(list)) {
+      list =  list.toString();
+   }
+   var value = $(this).data('id');
+   $(this).parent().remove();
+   var url_vals = getUrlVars();
+
+   if(type == 'category'){
+
+    var list = getUrlVars()["category"];
+    if(list){
+       var value = $(this).data('group');
+       var favsubcat = removeValue(list, value);
+       if(favsubcat == '' || favsubcat == null){
+         var url =   removeParam(type);
+         location.href = url; 
+      }else{
+       var newurl = replaceUrlParam('category',favsubcat);
+       location.href = newurl;
+    }
+ }else{
+  var url =   removeParam(type);
+  location.href = url;  
+}
+}
+
+else{
+  var favstores = removeValue(list, value);
+  if(favstores == '' || favstores == null){
+    var url =   removeParam(type);
+    location.href = url; 
+ }else{
+  var newurl = replaceUrlParam(type,favstores);
+  location.href = newurl;
+}
+}
+
+}); 
+
+
+
+  });
+
+     function getUrlVars()
+     {
+      var vars = [], hash;
+      var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+      for(var i = 0; i < hashes.length; i++)
+      {
+       hash = hashes[i].split('=');
+       vars.push(hash[0]);
+       vars[hash[0]] = hash[1];
+    }
+    return vars;
+ }
+
+
+ $('.subcategory_selector').click(function(){
+    //alert('test');
+    clearpagination();
+    var favsubcat = [];
+    $.each($("input[name='selectedsubcategory']:checked"), function(){
+     var szid = $(this).data('group');  
+
+     favsubcat.push($(this).val());
+  });  
+    var subcatType = getUrlVars()["category"];
+    if(favsubcat == null || favsubcat == ''){
+
+     var url =   removeParam("category");
+     location.href = url;
+
+  }else{
+     if(subcatType){
+      var url = location.href;
+      var newurl = replaceUrlParam('category',favsubcat);
+
+      location.href = newurl;
+   }else{
+      var url ="/collections/all-products?q=all&category=shirts" + "&category=" + favsubcat;
+      location.href = url;
+   }
+}
+
+
+
+});
+
+ $('.common_selector').click(function(){
+        clearpagination();
+        var param = $(this).data('group');
+        var favorite = [];
+        $.each($("input[name='selectedfilters"+param+"']:checked"), function(){
+            favorite.push($(this).val());
+        });
+        var fType = getUrlVars()[param];
+        //alert(favorite);
+        if(favorite == null || favorite == ''){
+            var url =   removeParam(param);
+            location.href = url;
+            return false;
+        }else{
+            if(fType){
+                var newurl = replaceUrlParam(param,favorite);
+                window.location.href = newurl;
+                return false;
+            }else{
+                var url =addParamToUrl(param,favorite);
+                window.location.href=url;
+                return false;
+            }
+        }
+    });
+
+ function clearpagination(){
+  originalURL = location.href;
+  var alteredURL = removeParam("page");
+
+}
+
+function addParamToUrl( key, value) {
+   var base =  window.location.href;
+   var sep = (base.indexOf('?') > -1) ? '&' : '?';
+   return base + sep + key + '=' + value;
+
+}
+
+function replaceUrlParam(paramName, paramValue){
+ var url = window.location.href;
+
+ if (paramValue == null) {
+   paramValue = '';
+}
+
+var pattern = new RegExp('\\b('+paramName+'=).*?(&|#|$)');
+if (url.search(pattern)>=0) {
+   return url.replace(pattern,'$1' + paramValue + '$2');
+}
+
+url = url.replace(/[?#]$/,'');
+return url + (url.indexOf('?')>0 ? '&' : '?') + paramName + '=' + paramValue;
+}
+
+
+function removeParam(parameter)
+{
+  var url=document.location.href;
+  var urlparts= url.split('?');
+
+  if (urlparts.length>=2)
+  {
+    var urlBase=urlparts.shift(); 
+    var queryString=urlparts.join("?"); 
+
+    var prefix = encodeURIComponent(parameter)+'=';
+    var pars = queryString.split(/[&;]/g);
+    for (var i= pars.length; i-->0;)               
+      if (pars[i].lastIndexOf(prefix, 0)!==-1)   
+        pars.splice(i, 1);
+     url = urlBase+'?'+pars.join('&');
+     window.history.pushState('',document.title,url);
+  }
+  return url;
+}
+
+function replaceUrlParam(paramName, paramValue){
+ var url = window.location.href;
+
+ if (paramValue == null) {
+   paramValue = '';
+}
+
+var pattern = new RegExp('\\b('+paramName+'=).*?(&|#|$)');
+if (url.search(pattern)>=0) {
+   return url.replace(pattern,'$1' + paramValue + '$2');
+}
+
+url = url.replace(/[?#]$/,'');
+return url + (url.indexOf('?')>0 ? '&' : '?') + paramName + '=' + paramValue;
+}
+
+function removeValue(list, value) {
+   return list.replace(new RegExp(",?" + value + ",?"), function(match) {
+     var first_comma = match.charAt(0) === ',',
+     second_comma;
+
+     if (first_comma &&
+       (second_comma = match.charAt(match.length - 1) === ',')) {
+      return ',';
+}
+return '';
+});
+};
+
+function checkparameterexists(param){
+                        var value = '';
+                        var url_vals = getUrlVars();
+                        $.each( url_vals, function( i, l ){ 
+                              //  alert(l);
+                              if(l == param){
+                                 value = "true";
+                             }
+
+                         });
+                        return value;
+                    }
+
+$('#sort_id').change(function(){
+        clearpagination();
+        var value = $("#sort_id").val();
+        var param =checkparameterexists('order');
+        //alert(param);
+        if(param == "true"){
+            var url = replaceUrlParam('order',value);
+        }else{
+            var url =addParamToUrl('order',value);
+        }
+        //alert(url);
+        location.href = url;
+    });
+
+
+
+
+</script>
+<a href="#" class="tt-back-to-top" id="js-back-to-top">BACK TO TOP</a>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="8f1ef6b883b9b5cb69f869b3-|49" defer></script></body>
+</html>

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Registration Page</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<style>
+   body {
+            background: rgba(174, 158, 176, 0.943) url('bus1.jpg') center center fixed;
+            background-size: cover;
+            background-blend-mode: color-burn;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        .container {
+      color: rgba(67, 8, 52, 0.056);
+    }
+    *
+{
+font-family: arial;
+font-size: 20px;
+color: rgb(147, 13, 200);
+
+}
+h2.redtext
+{
+font-family: arial;
+font-style: inherit;
+font-size: 30px;
+color:rgb(227, 190, 238);
+
+}
+</style>
+<body>
+
+  <div class="container mt-5">
+    <h2 style="background-color: rgb(217, 116, 228)"class="text-center">REGISTRATION FORM</h2>
+    <form action="http://localhost:8000/sign_up" method="post">
+      <div class="form-group">
+        <label for="user">costumername</label>
+        <input type="text" class="form-control" id="user" placeholder="Enter costomername" required name="user">
+      </div>
+      <div class="form-group">
+        <label for="email">Email</label>
+        <input type="email" class="form-control" id="email" placeholder="Enter email" required name="email" >
+      </div>
+   
+      <div class="form-group">
+        <label for="phoneno">Phone no</label>
+        <input type="number" class="form-control" id="phoneno" name='phoneno' placeholder="phone no" required name="Phone no">
+      </div>
+      <div class="form-group">
+        <label for="project">Type of Dress:</label>
+        <select class="form-control" id="project" name="project">
+            <option value="SELECT">SELECT</option>
+          <option value="Software">Men's Wear</option>
+          <option value="Hardware">Women's Wear</option>
+          <option value="Hardware">FORMAL DRESS</option>
+          <option value="Hardware">CASUAL DRESS</option>
+          <option value="Hardware">PARTY DRESS</option>
+
+        </select>
+      </div>
+    
+
+    Address:
+    <div class="form-group">
+      <textarea id="address" name="address" rows="4" cols="50"> </textarea>
+    </div>
+   
+      <button type="submit" class="btn btn-primary btn-block">Register</button>
+    </form>
+  </div>
+
+</body>
+</html>
